@@ -9,7 +9,7 @@
   "summary": "Couchbase Lite Community Edition for Swift",
   "authors": "Couchbase",
   "source": {
-    "http": "https://github.com/roman-bogdziievych/couchbaselite-swift/blob/master/couchbase-lite-swift_xc_community_3.0.2.zip"
+    "http": "https://github.com/roman-bogdziievych/couchbaselite-swift/blob/main/couchbase-lite-swift_xc_community_3.0.2.zip"
   },
   "preserve_paths": [
     "LICENSE.txt",
